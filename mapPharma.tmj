@@ -1824,19 +1824,6 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":3,
-         "firstgid":6755,
-         "image":"..\/Villa-e-sant\/tilesets\/Tabke Massage.png",
-         "imageheight":77,
-         "imagewidth":96,
-         "margin":0,
-         "name":"Tabke Massage",
-         "spacing":0,
-         "tilecount":6,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
